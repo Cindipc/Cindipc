@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D2E8C,50:C0392B,100:E8B923&height=180&section=header&text=Cindi%20Yurayda%20Pool%20Canul&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Desarrolladora%20Junior%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D2E8C,50:C0392B,100:E8B923&height=150&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=Cindi+Yurayda+Pool+Canul;Desarrolladora+Junior;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/📍-Mérida,_Yucatán,_México-6D2E8C?style=flat-square" />
