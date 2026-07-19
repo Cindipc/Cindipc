@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Cindi+Yurayda+Pool+Canul;Desarrolladora+Full+Stack+Junior;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Cindi+Yurayda+Pool+Canul;Desarrolladora+Junior;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/📍-Mérida,_Yucatán,_México-3178C6?style=flat-square" />
@@ -14,7 +14,7 @@
 
 ## 💻 Sobre mí
 
-Desarrolladora Full Stack con experiencia construyendo aplicaciones web y móviles en equipos de hasta 5 personas, usando **React, TypeScript, Vue, Laravel y Flutter**. Enfocada en escribir código mantenible, documentado y en aportar valor desde el primer día. Actualmente finalizando Ingeniería en Gestión y Desarrollo de Software.
+Desarrolladora Junior con experiencia construyendo aplicaciones web y móviles en equipos de hasta 5 personas, usando **React, TypeScript, Vue, Laravel y Flutter**. Enfocada en escribir código mantenible, documentado y en aportar valor desde el primer día. Actualmente finalizando Ingeniería en Gestión y Desarrollo de Software.
 
 <br>
 
