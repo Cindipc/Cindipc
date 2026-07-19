@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Cindi+Yurayda+Pool+Canul;Desarrolladora+Junior;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D2E8C,50:C0392B,100:E8B923&height=180&section=header&text=Cindi%20Yurayda%20Pool%20Canul&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Desarrolladora%20Junior%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=60&descSize=16" />
 
 <p>
-  <img src="https://img.shields.io/badge/📍-Mérida,_Yucatán,_México-3178C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/✉️-cindiyuraydapool%40gmail.com-3178C6?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Mérida,_Yucatán,_México-6D2E8C?style=flat-square" />
+  <img src="https://img.shields.io/badge/✉️-cindiyuraydapool%40gmail.com-C0392B?style=flat-square" />
   <a href="https://www.linkedin.com/in/cindi-yurayda-pool-canul-a72710419/"><img src="https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 💻 Sobre mí
 
-Desarrolladora Junior con experiencia construyendo aplicaciones web y móviles en equipos de hasta 5 personas, usando **React, TypeScript, Vue, Laravel y Flutter**. Enfocada en escribir código mantenible, documentado y en aportar valor desde el primer día. Actualmente finalizando Ingeniería en Gestión y Desarrollo de Software.
+Desarrolladora con experiencia construyendo aplicaciones web y móviles en equipos de hasta 5 personas, usando **React, TypeScript, Vue, Laravel y Flutter**. Enfocada en escribir código mantenible, documentado y en aportar valor desde el primer día. Actualmente finalizando Ingeniería en Gestión y Desarrollo de Software.
 
 <br>
 
@@ -80,16 +80,39 @@ Desarrolladora Junior con experiencia construyendo aplicaciones web y móviles e
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cindipc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cindipc&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cindipc&show_icons=true&theme=radical&hide_border=true&title_color=E8B923&icon_color=C0392B&text_color=ffffff&bg_color=1a1a2e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cindipc&layout=compact&theme=radical&hide_border=true&title_color=E8B923&text_color=ffffff&bg_color=1a1a2e" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cindipc&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Cindipc&theme=radical&hide_border=true&background=1A1A2E&ring=C0392B&fire=E8B923&currStreakLabel=E8B923" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cindipc&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## 📈 Actividad reciente
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cindipc/Cindipc/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br>
 
 ## 🔑 Palabras clave
 
-`Desarrolladora Full Stack` `Frontend Developer` `React Developer` `React.js` `TypeScript` `JavaScript` `Vue.js` `Laravel` `Flutter` `Node.js` `Firebase` `PostgreSQL` `MongoDB` `MySQL` `APIs REST` `Git` `GitHub` `Control de versiones` `Metodologías ágiles` `Trabajo en equipo` `Desarrollo web` `Desarrollo móvil` `UI/UX` `Tailwind CSS` `Bootstrap` `Ciberseguridad` `Software Engineer Junior` `Ingeniería en Software`
+`Frontend Developer` `React Developer` `React.js` `TypeScript` `JavaScript` `Vue.js` `Laravel` `Flutter` `Node.js` `Firebase` `PostgreSQL` `MongoDB` `MySQL` `APIs REST` `Git` `GitHub` `Control de versiones` `Metodologías ágiles` `Trabajo en equipo` `Desarrollo web` `Desarrollo móvil` `UI/UX` `Tailwind CSS` `Bootstrap` `Ciberseguridad` `Software Engineer Junior` `Ingeniería en Software`
+
+<br>
+
+## 📬 Contacto
+
+<p align="left">
+  <a href="mailto:cindiyuraydapool@gmail.com"><img src="https://img.shields.io/badge/Gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cindi-yurayda-pool-canul-a72710419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B923,50:C0392B,100:6D2E8C&height=100&section=footer" />
