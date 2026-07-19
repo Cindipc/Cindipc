@@ -57,14 +57,14 @@ Desarrolladora con experiencia construyendo aplicaciones web y móviles en equip
 
 ## 🚀 Proyectos destacados
 
-### 🔐 SecureCheck — Analizador de seguridad web
+### 🔐 [SecureCheck](https://github.com/Cindipc/securecheck) — Analizador de seguridad web
 `React` `TypeScript` `Tailwind CSS` `APIs REST`
-🚧 *En desarrollo*
 
 - Verificador de fortaleza de contraseñas en tiempo real (entropía, patrones comunes, tiempo estimado de crackeo).
-- Chequeo de brechas de datos por correo usando la API de Have I Been Pwned.
+- Chequeo de contraseñas filtradas usando la API de Have I Been Pwned (modelo k-anonymity, sin exponer datos sensibles).
+- Chequeo de brechas de datos por correo integrado con la API de HIBP.
 - Detector básico de phishing en URLs: dominios sospechosos, acortadores, caracteres homógrafos y ausencia de HTTPS.
-- Combina desarrollo frontend con fundamentos de ciberseguridad (Google Cybersecurity Certificate).
+- Proyecto que combina desarrollo frontend con fundamentos del Google Cybersecurity Certificate.
 
 <br>
 
