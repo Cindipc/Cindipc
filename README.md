@@ -63,34 +63,6 @@ Técnico Superior Universitario en Desarrollo de Software, actualmente en 9° cu
 
 ---
 
-### 🗺️ Mayaximbal — plataforma para viajeros en la Península Yucateca
-`Astro` `React` `Node.js` `PostgreSQL` `IA`
-*Proyecto en equipo (5 integrantes) — Diciembre 2025*
-
-- Plataforma para conectar viajeros con rutas poco conocidas de Yucatán: pueblos fantasma, grutas, cenotes y haciendas.
-- Liderazgo del frontend con Astro y React: vistas de exploración de rutas e integración de mapa por destino.
-- Asistente de inteligencia artificial para guiar al viajero, con backend en Node.js y PostgreSQL.
-
----
-
-### 🧰 JobHub — plataforma de contratación de servicios locales
-`Vue.js` `Laravel` `MongoDB`
-*Proyecto en equipo (5+ integrantes) — Abril 2026, en curso*
-
-- Plataforma para contratar servicios locales (albañilería, limpieza, plomería), conectando clientes con prestadores de su zona.
-- Backend en Laravel con MongoDB y frontend en Vue, dentro de un equipo de 5 o más integrantes.
-
----
-
-### 🌱 Ibijicama — app móvil de riego inteligente
-`Flutter` `Sensores`
-*Proyecto en equipo — Abril 2026, en curso*
-
-- App móvil para un sistema de riego inteligente con sensores que asigna cultivos según las condiciones reportadas.
-- Lógica de asignación de cultivos según los datos de los sensores, programada en Flutter.
-
----
-
 ## 🎓 Cursos y certificaciones
 
 - Google Cybersecurity Certificate — Google (Abril 2026)
