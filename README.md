@@ -11,7 +11,7 @@
 
 ### 🧠 Sobre mí
 
-Técnico Superior Universitario en Desarrollo de Software, actualmente en 9° cuatrimestre de Ingeniería en Gestión y Desarrollo de Software (cierre junio 2027). He participado en 4 proyectos en equipo con stacks distintos: **React, Vue, Flutter y Laravel**. Busco una posición como practicante o desarrolladora junior para seguir creciendo técnicamente y aportar desde el primer día.
+Técnico Superior Universitario en Desarrollo de Software, actualmente en 9° cuatrimestre de Ingeniería en Gestión y Desarrollo de Software (cierre junio 2027). He participado proyectos en equipo con stacks distintos: **React, Vue, Flutter y Laravel**. Busco una posición como practicante o desarrolladora junior para seguir creciendo técnicamente y aportar desde el primer día.
 
 ---
 
