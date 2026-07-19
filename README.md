@@ -52,14 +52,14 @@ Técnico Superior Universitario en Desarrollo de Software, actualmente en 9° cu
 
 ## 🚀 Proyectos
 
-### 🖨️ Sistema web de gestión para imprenta
-`React` `TypeScript` `Firebase` `Axios` `Gmail API`
-*Proyecto en equipo (2 integrantes) — Mayo 2025 a Agosto 2025*
+### 🔐 SecureCheck — Analizador de seguridad web
+`React` `TypeScript` `Tailwind CSS` `APIs REST`
+*Proyecto individual — 🚧 En desarrollo*
 
-- Módulos de captura y seguimiento de pedidos, reemplazando el control manual en hojas de cálculo.
-- Conexión del backend con Firebase para sincronizar pedidos, clientes y estado de impresión en tiempo real.
-- Envío automático de correos a clientes con la API de Gmail y Axios.
-- Control de versiones con Git y GitHub, code review en equipo y documentación por módulo.
+- Verificador de fortaleza de contraseñas en tiempo real (entropía, patrones comunes, tiempo estimado de crackeo).
+- Chequeo de brechas de datos por correo usando la API de Have I Been Pwned.
+- Detector básico de phishing en URLs: dominios sospechosos, acortadores, caracteres homógrafos y ausencia de HTTPS.
+- Proyecto que combina desarrollo frontend con conocimientos del Google Cybersecurity Certificate.
 
 ---
 
